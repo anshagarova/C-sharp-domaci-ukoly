@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/annashagarova/Desktop/Kalkulačka/Kalkulačka/Kalkulačka.csproj": {}
+    "/Users/annashagarova/Documents/Kalkulačka/Kalkulačka/Kalkulačka.csproj": {}
   },
   "projects": {
-    "/Users/annashagarova/Desktop/Kalkulačka/Kalkulačka/Kalkulačka.csproj": {
+    "/Users/annashagarova/Documents/Kalkulačka/Kalkulačka/Kalkulačka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/annashagarova/Desktop/Kalkulačka/Kalkulačka/Kalkulačka.csproj",
+        "projectUniqueName": "/Users/annashagarova/Documents/Kalkulačka/Kalkulačka/Kalkulačka.csproj",
         "projectName": "Kalkulačka",
-        "projectPath": "/Users/annashagarova/Desktop/Kalkulačka/Kalkulačka/Kalkulačka.csproj",
+        "projectPath": "/Users/annashagarova/Documents/Kalkulačka/Kalkulačka/Kalkulačka.csproj",
         "packagesPath": "/Users/annashagarova/.nuget/packages/",
-        "outputPath": "/Users/annashagarova/Desktop/Kalkulačka/Kalkulačka/obj/",
+        "outputPath": "/Users/annashagarova/Documents/Kalkulačka/Kalkulačka/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/annashagarova/.nuget/NuGet/NuGet.Config"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kalkulačka
-build_property.ProjectDir = /Users/annashagarova/Desktop/Kalkulačka/Kalkulačka/
+build_property.ProjectDir = /Users/annashagarova/Documents/Kalkulačka/Kalkulačka/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
