@@ -1,0 +1,14 @@
+/Users/annashagarova/Kalkulačka/Kalkulačka/obj/Debug/net8.0/Kalkulačka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annashagarova/Kalkulačka/Kalkulačka/obj/Debug/net8.0/Kalkulačka.AssemblyInfoInputs.cache
+/Users/annashagarova/Kalkulačka/Kalkulačka/obj/Debug/net8.0/Kalkulačka.AssemblyInfo.cs
+/Users/annashagarova/Kalkulačka/Kalkulačka/obj/Debug/net8.0/Kalkulačka.csproj.CoreCompileInputs.cache
+/Users/annashagarova/Kalkulačka/Kalkulačka/bin/Debug/net8.0/Kalkulačka
+/Users/annashagarova/Kalkulačka/Kalkulačka/bin/Debug/net8.0/Kalkulačka.deps.json
+/Users/annashagarova/Kalkulačka/Kalkulačka/bin/Debug/net8.0/Kalkulačka.runtimeconfig.json
+/Users/annashagarova/Kalkulačka/Kalkulačka/bin/Debug/net8.0/Kalkulačka.dll
+/Users/annashagarova/Kalkulačka/Kalkulačka/bin/Debug/net8.0/Kalkulačka.pdb
+/Users/annashagarova/Kalkulačka/Kalkulačka/obj/Debug/net8.0/Kalkulačka.dll
+/Users/annashagarova/Kalkulačka/Kalkulačka/obj/Debug/net8.0/refint/Kalkulačka.dll
+/Users/annashagarova/Kalkulačka/Kalkulačka/obj/Debug/net8.0/Kalkulačka.pdb
+/Users/annashagarova/Kalkulačka/Kalkulačka/obj/Debug/net8.0/Kalkulačka.genruntimeconfig.cache
+/Users/annashagarova/Kalkulačka/Kalkulačka/obj/Debug/net8.0/ref/Kalkulačka.dll
